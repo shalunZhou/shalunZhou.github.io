@@ -5,13 +5,13 @@
  */
 
  /*!
- * Hux Blog v1.6.0 (http://startbootstrap.com)
+ * slzray Blog v1.6.0 (http://startbootstrap.com)
  * Copyright 2016 @huxpro
  * Licensed under Apache 2.0 
  */
 
 // Tooltip Init
-// Unuse by Hux since V1.6: Titles now display by default so there is no need for tooltip
+// Unuse by slzray since V1.6: Titles now display by default so there is no need for tooltip
 // $(function() {
 //     $("[data-toggle='tooltip']").tooltip();
 // });
