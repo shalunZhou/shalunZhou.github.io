@@ -1,8 +1,10 @@
 ---
 layout:       post
 title:        "论合勤路由器 FirmAE仿真"
+date:          2024-09-24 13:00:00
 author:       "slzray"
-header-style: text
+#header-style: text
+header-img: "img/post-bg-2015.jpg"
 catalog:      true
 tags:
     - zyxel
@@ -11,4 +13,9 @@ tags:
 
 > zyxel路由器仿真。
 
-— slzray，Facebook 软件工程师（编程语言、JS 引擎、前端基础设施）、中文前端社区活跃成员。
+#目标
+关于合勤路由器仿真。
+##问题
+无法
+
+— slzray 于 2024.9
