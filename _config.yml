@@ -74,7 +74,7 @@ sidebar-about-description: "一个向往自由的被禁锢的灵魂"
 sidebar-avatar: https://github.com/slzray.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
-featured-tags: true # whether or not using Feature-Tags
+featured-tags: flase # whether or not using Feature-Tags
 featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
 
 # Progressive Web Apps
@@ -85,7 +85,7 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends:
-  [
+# friends:
+#   [
 
-  ]
+#   ]
