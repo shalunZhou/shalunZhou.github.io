@@ -1,4 +1,4 @@
-Hey，我是slzray（a.k.a. Hux, _@huxpro_），一个略懂计算机科学与艺术的斜杆不动青年，自诩是一个[沙雕](https://www.baidu.com/)
+Hey，我是slzray。
 
 ##### 参考资料
 
